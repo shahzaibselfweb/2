@@ -1,0 +1,25 @@
+html{
+    font-size: 14px;
+    color:black;
+    background-color: antiquewhite;
+    text-align: left;
+}
+h1{
+    color: whitesmoke;
+    background-color: gray;
+    text-align: center;
+    }
+h2{
+    color: whitesmoke;
+    background-color: gray;
+    text-align: center;
+}
+button{
+    text-align: right;
+}
+h3{
+    text-align: center;
+    background-color: white;
+    text-align: center;
+    color: green;
+}
